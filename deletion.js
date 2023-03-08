@@ -48,7 +48,7 @@ class Deletion extends React.Component
     return(
         <div>
         <div class="table-title">
-        <h3>Data Table</h3>
+        <h3>Watchlist</h3>
         </div>
         <table class="table-fill">
         <thead>

@@ -6,6 +6,7 @@ function FirstPage (){
         <div>
           <h1>My Watchlist</h1>
           
+          
             
             <button className="playbut"><Link className="but" to='/getvalues'>Show Watchlist</Link></button>
             <button className="playbut"><Link className="but" to='/postvalue'>Add movies/series</Link></button>

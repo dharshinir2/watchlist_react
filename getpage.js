@@ -17,6 +17,8 @@ class Table extends Component{
     render()
       {
         return(
+            <div className="first">
+
             <table border={1}>
                 <thead>
                     <tr>
@@ -40,6 +42,7 @@ class Table extends Component{
                     ))}
                 </tbody>
             </table>
+                    </div>
 
         )
             
